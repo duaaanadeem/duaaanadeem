@@ -1,16 +1,14 @@
-## Hi there 👋
+## About Me
 
-<!--
-**duaaanadeem/duaaanadeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a Computer Science student passionate about coding and problem-solving.  
+Currently, I'm working on **C++ projects, Python scripts, and exploring UI/UX design**.  
 
-Here are some ideas to get you started:
+### Tools & Technologies I Use
+- **Languages:** C++, Python, SQL  
+- **Design / UI:** Figma (basic)  
+- **Other:** Git, GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to Reach Me
+- **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/yourprofile)  
+- **Email:** your.email@example.com
+

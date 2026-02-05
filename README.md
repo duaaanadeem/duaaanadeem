@@ -1,14 +1,11 @@
 ## About Me
 
-Hi! I'm a Computer Science student passionate about coding and problem-solving.  
-Currently, I'm working on **C++ projects, Python scripts, and exploring UI/UX design**.  
+Hi! I'm a Computer Science student passionate about coding and problem-solving.    
 
 ### Tools & Technologies I Use
-- **Languages:** C++, Python, SQL  
-- **Design / UI:** Figma (basic)  
-- **Other:** Git, GitHub, VS Code  
+- **Languages:** C, C++, Python, SQL  
+- **Tools & IDEs:** Git, GitHub, VS Code, Dev-C++, SSMS, PyCharm
 
 ### How to Reach Me
-- **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/yourprofile)  
-- **Email:** your.email@example.com
+- **LinkedIn:** https://www.linkedin.com/in/duaa-khan-b3739431a?
 

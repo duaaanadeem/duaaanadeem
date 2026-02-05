@@ -7,5 +7,5 @@ Hi! I'm a Computer Science student passionate about coding and problem-solving.
 - **Tools & IDEs:** Git, GitHub, VS Code, Dev-C++, SSMS, PyCharm
 
 ### How to Reach Me
-- **LinkedIn:** https://www.linkedin.com/in/duaa-khan-b3739431a?
+- **LinkedIn:** https://www.linkedin.com/in/duaa-khan-
 

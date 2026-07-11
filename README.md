@@ -8,6 +8,6 @@ Hi! I'm a Computer Science student passionate about coding and problem-solving.
 
 ### How to Reach Me
 - **LinkedIn:** https://www.linkedin.com/in/duaa-nadeem-b3739431a
-- **Instagram:** https://www.instagram.com/duaacoded?igsh=ajd0NndnY3MyZGI0
+- **Instagram:** https://www.instagram.com/duaacoded?
 - **Email:** duaaanadeemm@gmail.com
 

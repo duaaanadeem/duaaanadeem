@@ -1,26 +1,72 @@
-<h1 align="center">👋 Hi, I'm Duaa Nadeem</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Developer;Cybersecurity+Learner;AI+Explorer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff"/> </p>
-🧑‍💻 About Me
-python
-class Developer:
-    name = "Duaa Nadeem"
-    role = "BS Computer Science Student"
-    location = "Lahore, Pakistan"
-    focus = ["Python", "Django", "AI", "Cybersecurity"]
-⚡ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,cpp,java,js,html,css,bootstrap,mysql,sqlite,git,github,docker,linux,vscode,pycharm,tensorflow"/> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:1a1a2e&height=200&section=header&text=Duaa%20Nadeem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Building+AI-powered+Apps;Django+%26+FastAPI+Backend+Engineer;Exploring+Cybersecurity+%F0%9F%94%90;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Open%20to%20Work-FFB6C1?style=for-the-badge&logo=briefcase&logoColor=1a1a2e"/> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=duaaanadeem&style=for-the-badge&color=FFB6C1&label=PROFILE+VIEWS"/> <img src="https://img.shields.io/github/followers/duaaanadeem?style=for-the-badge&color=FFB6C1&labelColor=1a1a2e&logo=github"/> </p>
+🧑‍💻 Who I Am
+ts
+const duaa = {
+  title: "Python Developer",
+  stack: {
+    languages: ["C++", "C", "Python"],
+    web: ["HTML5", "CSS3", "Django", "Flask", "FastAPI"],
+    databases: ["SQLite", "MySQL", "MongoDB", "PostgreSQL"],
+    aiAndData: ["TensorFlow", "PyTorch", "Keras", "Scikit-learn", "NumPy", "Pandas", "SciPy", "Matplotlib"],
+    cloudAndDeploy: ["AWS", "Vercel", "Render"],
+    design: ["Figma", "Adobe XD", "Adobe", "Canva"],
+  },
+  launchedProjects: ["SafeSight-AI", "CyberGuard"],
+  status: "Available for opportunities",
+  openTo: ["Full-time roles", "Internships", "Collaborations"],
+};
 🚀 Featured Projects
-Project	Description
-🛡️ CyberGuard	Cybersecurity-focused project
-🤖 SafeSight AI	AI-powered safety/detection project
-🎨 Rangkaar	Creative/design-focused project
+🛡️ SafeSight-AI
 
-Update the links above once you confirm the exact repo names on your profile.
+AI-powered project focused on intelligent detection/monitoring, built with Python.
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=duaaanadeem&repo=SafeSight-AI&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFB6C1&icon_color=FFB6C1&text_color=ffffff"/> </p>
+Layer	Technology
+Language	Python
+AI/ML	TensorFlow / PyTorch
+Backend	Flask / FastAPI
+
+🔗 Code
+
+🔐 CyberGuard
+
+Cybersecurity-focused project built with Python.
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=duaaanadeem&repo=CyberGuard&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFB6C1&icon_color=FFB6C1&text_color=ffffff"/> </p>
+Layer	Technology
+Language	Python
+Focus	Security / Threat Detection
+
+🔗 Code
+
+Note: I filled in the tech tables and descriptions above based on your overall stack and project names since I didn't have exact per-project details — feel free to edit these two blocks to match what each repo actually uses.
+
+⚡ Tech Stack
+
+Languages
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,c,python"/> </p>
+
+Web & Backend
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,django,flask,fastapi"/> </p>
+
+Databases
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres"/> </p>
+
+AI / ML / Data
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/> </p>
+
+Cloud & Deployment
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,vercel,github"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> </p>
+
+Design
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=figma,xd"/> <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> </p>
 📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=duaaanadeem&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="165" src="https://streak-stats.demolab.com?user=duaaanadeem&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duaaanadeem&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-🏆 Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=duaaanadeem&theme=algolia&no-frame=true"/> </p>
-🌍 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=duaaanadeem&theme=tokyo-night"/> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=duaaanadeem&theme=dark&hide_border=true&background=0D1117&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duaaanadeem&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFB6C1&text_color=ffffff"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=duaaanadeem&theme=radical&no-frame=true&margin-w=8&margin-h=8"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=duaaanadeem&bg_color=0D1117&color=FFB6C1&line=FFB6C1&point=ffffff&hide_border=true"/> </p>
 📫 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00F7FF&height=120&section=footer"/> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/duaa-nadeem-b3739431a"> <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=1a1a2e"/> </a> <a href="https://www.instagram.com/duaacoded"> <img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=1a1a2e"/> </a> <a href="mailto:duaaanadeemm@gmail.com"> <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=1a1a2e"/> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:FFB6C1&height=120&section=footer"/> </p>

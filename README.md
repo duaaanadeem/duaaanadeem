@@ -26,7 +26,7 @@ Language	Python
 AI/ML	TensorFlow / PyTorch
 Backend	Flask / FastAPI
 
-🔗 Code
+🔗 <a href="https://github.com/duaaanadeem/SafeSight-AI">Code</a>
 
 🔐 CyberGuard
 
@@ -37,9 +37,9 @@ Layer	Technology
 Language	Python
 Focus	Security / Threat Detection
 
-🔗 Code
+🔗 <a href="https://github.com/duaaanadeem/CyberGuard">Code</a>
 
-Note: I filled in the tech tables and descriptions above based on your overall stack and project names since I didn't have exact per-project details — feel free to edit these two blocks to match what each repo actually uses.
+If either repo's actual name doesn't match SafeSight-AI or CyberGuard exactly (capitalization and hyphens included), the pin card above won't load — update repo= in the image URL to match exactly.
 
 ⚡ Tech Stack
 
@@ -49,7 +49,7 @@ Languages
 
 Web & Backend
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,django,flask,fastapi"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,django,flask"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> </p>
 
 Databases
 
@@ -65,8 +65,8 @@ Cloud & Deployment
 
 Design
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=figma,xd"/> <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=figma"/> <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> </p>
 📊 GitHub Stats
-<p align="center"> <img src="https://streak-stats.demolab.com?user=duaaanadeem&theme=dark&hide_border=true&background=0D1117&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duaaanadeem&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFB6C1&text_color=ffffff"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=duaaanadeem&theme=radical&no-frame=true&margin-w=8&margin-h=8"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=duaaanadeem&bg_color=0D1117&color=FFB6C1&line=FFB6C1&point=ffffff&hide_border=true"/> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=duaaanadeem&theme=dark&hide_border=true&background=0D1117&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duaaanadeem&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFB6C1&text_color=ffffff"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=duaaanadeem&theme=radical&no-frame=true&margin-w=8&margin-h=8"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=duaaanadeem&theme=github-dark"/> </p>
 📫 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/duaa-nadeem-b3739431a"> <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=1a1a2e"/> </a> <a href="https://www.instagram.com/duaacoded"> <img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=1a1a2e"/> </a> <a href="mailto:duaaanadeemm@gmail.com"> <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=1a1a2e"/> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:FFB6C1&height=120&section=footer"/> </p>
